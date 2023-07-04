@@ -8,3 +8,6 @@ To use my project you first want to open it, upon opening the page you will noti
 
 Screenshot of deployed program, current time is 11:56
 ![](https://github.com/sam-st/daily-schedule/assets/52641515/e854a8a3-6fd8-4016-99b7-7a5fc501563d)
+
+Screenshot of deployed program, current time is 12:01
+![](https://github.com/sam-st/daily-schedule/assets/52641515/c91053ec-5c1d-4054-b776-ff0251c34358)
