@@ -37,7 +37,6 @@ $(function () {
       $(this).addClass('past')
       $(this).find('.description').val(localStorage.getItem(elementId));
       console.log(localStorage.getItem(elementId));
-      // $(this).find('.container').val(localStorage.getItem(elementId));
     } else if (parseInt(number) === now.hour()) {
       $(this).addClass('present')
       $(this).find('.description').val(localStorage.getItem(elementId));
